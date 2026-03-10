@@ -1,0 +1,87 @@
+{
+  "app": {
+    "title": "Worksheet Maker"
+  },
+  "header": {
+    "logout": "Logout",
+    "history": "My Worksheets",
+    "generate": "Generate"
+  },
+  "auth": {
+    "welcome": "Welcome to Worksheet Maker",
+    "email": "Email",
+    "password": "Password",
+    "name": "Full Name",
+    "login": "Log In",
+    "register": "Sign Up",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "signUp": "Sign Up",
+    "signIn": "Log In"
+  },
+  "form": {
+    "title": "Worksheet Settings",
+    "subject": "Subject",
+    "gradeLevel": "Grade Level",
+    "questionType": "Question Type",
+    "numQuestions": "Number of Questions",
+    "difficulty": "Difficulty",
+    "contentLanguage": "Content Language",
+    "includeAnswerKey": "Include Answer Key",
+    "generate": "Generate Worksheet",
+    "generating": "Generating..."
+  },
+  "subjects": {
+    "math": "Math",
+    "science": "Science",
+    "reading": "Reading",
+    "socialStudies": "Social Studies",
+    "languageArts": "Language Arts",
+    "custom": "Custom"
+  },
+  "questionTypes": {
+    "multipleChoice": "Multiple Choice",
+    "fillInTheBlank": "Fill in the Blank",
+    "trueFalse": "True / False",
+    "shortAnswer": "Short Answer",
+    "matching": "Matching",
+    "wordProblems": "Word Problems"
+  },
+  "difficulty": {
+    "easy": "Easy",
+    "medium": "Medium",
+    "hard": "Hard"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Spanish"
+  },
+  "preview": {
+    "title": "Preview",
+    "print": "Print",
+    "downloadPdf": "Download PDF",
+    "placeholder": "Your generated worksheet will appear here.",
+    "showAnswerKey": "Show Answer Key",
+    "hideAnswerKey": "Hide Answer Key"
+  },
+  "history": {
+    "title": "My Worksheets",
+    "newWorksheet": "+ New Worksheet",
+    "worksheetTitle": "Title",
+    "subject": "Subject",
+    "grade": "Grade",
+    "language": "Language",
+    "date": "Date",
+    "actions": "Actions",
+    "empty": "No worksheets yet. Generate your first one!",
+    "confirmDelete": "Are you sure you want to delete this worksheet?",
+    "view": "View",
+    "delete": "Delete"
+  },
+  "grades": {
+    "K": "K",
+    "1": "1", "2": "2", "3": "3", "4": "4", "5": "5",
+    "6": "6", "7": "7", "8": "8", "9": "9", "10": "10",
+    "11": "11", "12": "12"
+  }
+}

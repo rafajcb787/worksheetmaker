@@ -1,0 +1,87 @@
+{
+  "app": {
+    "title": "Creador de Hojas de Trabajo"
+  },
+  "header": {
+    "logout": "Cerrar Sesion",
+    "history": "Mis Hojas",
+    "generate": "Generar"
+  },
+  "auth": {
+    "welcome": "Bienvenido a Creador de Hojas de Trabajo",
+    "email": "Correo Electronico",
+    "password": "Contrasena",
+    "name": "Nombre Completo",
+    "login": "Iniciar Sesion",
+    "register": "Registrarse",
+    "noAccount": "No tienes cuenta?",
+    "hasAccount": "Ya tienes cuenta?",
+    "signUp": "Registrarse",
+    "signIn": "Iniciar Sesion"
+  },
+  "form": {
+    "title": "Configuracion de Hoja",
+    "subject": "Materia",
+    "gradeLevel": "Grado",
+    "questionType": "Tipo de Pregunta",
+    "numQuestions": "Numero de Preguntas",
+    "difficulty": "Dificultad",
+    "contentLanguage": "Idioma del Contenido",
+    "includeAnswerKey": "Incluir Respuestas",
+    "generate": "Generar Hoja de Trabajo",
+    "generating": "Generando..."
+  },
+  "subjects": {
+    "math": "Matematicas",
+    "science": "Ciencias",
+    "reading": "Lectura",
+    "socialStudies": "Estudios Sociales",
+    "languageArts": "Artes del Lenguaje",
+    "custom": "Personalizado"
+  },
+  "questionTypes": {
+    "multipleChoice": "Opcion Multiple",
+    "fillInTheBlank": "Completar Espacios",
+    "trueFalse": "Verdadero / Falso",
+    "shortAnswer": "Respuesta Corta",
+    "matching": "Relacionar Columnas",
+    "wordProblems": "Problemas de Palabras"
+  },
+  "difficulty": {
+    "easy": "Facil",
+    "medium": "Medio",
+    "hard": "Dificil"
+  },
+  "languages": {
+    "en": "Ingles",
+    "es": "Espanol"
+  },
+  "preview": {
+    "title": "Vista Previa",
+    "print": "Imprimir",
+    "downloadPdf": "Descargar PDF",
+    "placeholder": "Tu hoja de trabajo generada aparecera aqui.",
+    "showAnswerKey": "Mostrar Respuestas",
+    "hideAnswerKey": "Ocultar Respuestas"
+  },
+  "history": {
+    "title": "Mis Hojas de Trabajo",
+    "newWorksheet": "+ Nueva Hoja",
+    "worksheetTitle": "Titulo",
+    "subject": "Materia",
+    "grade": "Grado",
+    "language": "Idioma",
+    "date": "Fecha",
+    "actions": "Acciones",
+    "empty": "No tienes hojas de trabajo. Genera la primera!",
+    "confirmDelete": "Estas seguro de que quieres eliminar esta hoja de trabajo?",
+    "view": "Ver",
+    "delete": "Eliminar"
+  },
+  "grades": {
+    "K": "K",
+    "1": "1", "2": "2", "3": "3", "4": "4", "5": "5",
+    "6": "6", "7": "7", "8": "8", "9": "9", "10": "10",
+    "11": "11", "12": "12"
+  }
+}
